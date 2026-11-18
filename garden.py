@@ -12,7 +12,7 @@ import subprocess
 
 # ========== 你的配置 ==========
 OWNER = "monicaffy108-alt"                     # 你的 GitHub 用户名
-REMOTE = f"git@github.com:{OWNER}/github-garden.git"
+REMOTE = f"git@github.com:{OWNER}/Github-garden.git"
 EMAIL = "285931751+monicaffy108-alt@users.noreply.github.com"  # GitHub noreply 邮箱
 USER_NAME = "monicaffy108-alt"                 # git 提交显示的名字
 TZ = dt.timezone(dt.timedelta(hours=8))        # 时区：北京时间
